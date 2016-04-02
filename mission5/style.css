@@ -1,0 +1,189 @@
+﻿.header{
+ width:100%;
+ background-color:#222;
+ top:0px;
+ height:60px;
+
+}
+
+ .part h2{
+ font-family: "黑体";
+}
+
+
+.nav{
+ text-align: right;
+ height:60px;
+ line-height: 60px;
+ margin: 0px;
+}
+
+
+.nav li{
+ display: inline-block;
+ width:100px;
+ color:#999;
+}
+
+.nav li a{
+ color:#aaa;
+}
+
+.body{
+ margin:0px;
+ overflow:scroll;
+ background-color: #ddd;
+}
+
+.grey{
+color: grey;
+}
+
+.text{
+font-size: 15px;
+font-family: "幼圆";
+
+}
+
+.bottom{
+ width:100%;
+ background-color:#000;
+ position:fixed;
+ bottom:0px;
+ height:50px;
+ text-align:center;
+ 
+}
+
+ .part figure{
+  height:180px;
+  width: 200px;
+  display: inline-block;
+  border: 1px solid #aaa;
+  text-align: center;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+.container{
+
+margin-top:20px;
+margin-right: 380px;
+}
+
+.list-none{
+	list-style: none;
+}
+
+.part{
+margin: 40px ;
+background-color: #fff;
+padding: 30px;
+border: 1px solid #2cb7fe;
+-webkit-box-shadow: 3px 3px 10px #9edeff;
+box-shadow: 3px 3px 10px #9edeff;
+
+}
+
+.right{
+width:420px;
+top: 60px;
+position: absolute;
+right: -5px;
+
+}
+
+.table{
+ width: 100%;
+ border: 1px solid #444
+}
+
+.th-1{
+ width:40%;
+ background-color: #444;
+ color: #aaa;
+}
+.th-2{
+ width:40%;
+ background-color: #444;
+ color: #aaa;
+}
+.th-3{
+ width:20%;
+ background-color: #444;
+ color: #aaa;
+}
+
+.table td{
+ text-align: center;
+ border: 1px solid #444
+}
+
+.part_aside{
+margin: 40px ;
+background-color: #fff;
+padding: 30px;
+border: 1px solid #2cb7fe;
+-webkit-box-shadow: 3px 3px 10px #9edeff;
+box-shadow: 3px 3px 10px #9edeff;
+
+}
+
+.span{
+font-family: "幼圆";
+font-size: 12px;
+display: block;
+text-align: right;
+}
+
+.form_ul{
+list-style:none;
+padding:0px;
+}
+
+.form_ul li{
+padding-top:10px; 
+}
+
+.form_ul label{
+font-size: 14px;
+text-align: right;	
+width:120px;
+display: inline-block;
+}
+
+.s{
+font-size: 14px;
+width:150px;
+display: inline-block;
+}
+
+.form_ul h5{
+font-size: 14px;
+text-align: right;	
+width:120px;
+display: inline-block;
+margin:0px;
+}
+
+.sex{
+display: inline-block;
+width:10px;
+}
+
+.unique{
+font-size: 12px;
+width:25px;
+display: inline-block;
+}
+
+.form_ul textarea{
+ width:140px;
+}
+
+.button{
+position: absolute;
+right:80px;
+width: 150px;
+margin-bottom: 10px;
+}
